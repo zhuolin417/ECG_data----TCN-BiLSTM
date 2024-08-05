@@ -17,7 +17,8 @@ This project uses Temporal Convolutional Networks (TCN) and Bidirectional Long S
 
 ## dataset
 We evaluated our model using [the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
-The dataset is then preprocessed by label matching
+The dataset is then preprocessed by label matching.
+Download links to the data used in this project（https://zhengyu.tech/nextcloud/s/96woibegWtiwkrr）
 
 ## train
 ```
